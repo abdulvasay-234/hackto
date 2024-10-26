@@ -1,2 +1,2 @@
-# hacktoberfest 2024
+# hacktoberfest
 Helps in understanding the hackto
